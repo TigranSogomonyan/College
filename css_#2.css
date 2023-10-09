@@ -1,0 +1,16 @@
+h3{
+    color: cornflowerblue;
+}
+
+.img{
+    box-shadow: 10px 10px 10px 10px rgb(0, 0, 0); 
+}
+img{
+    margin-left:3px ;
+    margin-right: 3px;
+}
+
+
+#id_link:hover{ 
+    background-color: rgb(117, 90, 36);
+}
